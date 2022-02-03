@@ -6,3 +6,8 @@ You need to:
 - Compile the TS code and store the output in `/dist` folder
 - The output JavaScript file needs to be an ES6 code
 - Along with the output JavaScript file, a TypeScript declaration file `index.d.ts` should also be generated.
+
+## How to run
+
+- Run `npm install`
+- Run `npm run dev`
