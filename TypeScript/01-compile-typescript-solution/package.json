@@ -1,0 +1,9 @@
+{
+  "name": "ts-intro",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput"
+  }
+}

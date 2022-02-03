@@ -1,0 +1,7 @@
+{
+  "name": "ts-intro",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput"
+  }
+}
